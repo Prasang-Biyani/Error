@@ -6,3 +6,4 @@
 3) ErrorsServlet - Servlet Class
 4) SQLQueryGenerator - When user enters a query, that query (request) is processed in the backend and the result (response) is thrown with the help of "errors.jsp".
 
+The Project uses JDBC, MySQL, JSP, HTML, CSS, JavaScript which makes the use of MVC architecture (Model - View - Controller).
